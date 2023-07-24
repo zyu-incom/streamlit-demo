@@ -1,0 +1,5 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}/application",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black"
+}
